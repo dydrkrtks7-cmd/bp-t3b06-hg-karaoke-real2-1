@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mullae-coin-karaoke-note.best-hapjeong-pub.xyz/sitemap.xml
